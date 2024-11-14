@@ -1,0 +1,22 @@
+{
+  "id": "IA12F61B0",
+  "title": "སྒྲོལ་མ་ཕྱག་འཚལ་ཉེར་གཅིག་གི་མཆན་འགྲེལ་བཞུགས་སོ།",
+  "author": "བློ་བཟང་ཟླ་བ།",
+  "imported": "2024-11-14T10:28:55.008584",
+  "source": "https://library.bdrc.io/show/bdr:MW8LS77083",
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocParser",
+  "initial_creation_type": "ebook",
+  "language": "bo",
+  "source_metadata": {
+    "category": "སློབ་གྲྭ་ཁག་གི་སྔ་དགོང་ཞལ་འདོན།",
+    "root_path": "root/I0152F99B/layers/01A1/Meaning_Segment-B5A9.json"
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
